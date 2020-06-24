@@ -29,7 +29,9 @@ class Mullpy():
             self.exit_hostname = self.api_data['mullvad_exit_ip_hostname']
             self.organization = self.api_data['organization']
             self.server_type = self.api_data['mullvad_server_type']
-        self.blacklisted = self.api_data['blacklisted']
+        self.blacklisted = self.api_data.get(
+            'blacklisted', {'blacklisted': False, 'results': []}
+        )
 
     def is_blacklisted(self):
         """Return True or False if user is blacklisted."""

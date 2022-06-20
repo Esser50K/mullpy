@@ -3,7 +3,7 @@
 
 A little tool to check if you're currently connected to **Mullvad** VPN or not and also checks for an open port and a DNS leak test. If you want to read more about Mullvad VPN you can goa head and read the _very flattering_ [Mullvad review here](https://thatoneprivacysite.net/2017/10/03/mullvad-review/) by [That One Privacy Site](https://thatoneprivacysite.net/)
 
-The tool _does not_ intend to be a swiss army knife, just a two day mini-project so I don't have to go to [am.i.mullvad.net](http://am.i.mullvad.net/) everytime to check on my connection. **For WebRTC you should go to their website!**
+The tool _does not_ intend to be a swiss army knife, just a two day mini-project so I don't have to go to [am.i.mullvad.net](http://am.i.mullvad.net/) every time to check on my connection. **For WebRTC you should go to their website!**
 
 ![Mullvad ON](assets/mullvad_on.png)
 
@@ -65,3 +65,4 @@ If you like the project and would like to support me you can buy me a cup of cof
 <a href="https://www.paypal.me/orozcofranccesco">
   <img height="32" src="assets/paypal_badge.png" />
 </a> <a href="https://www.buymeacoffee.com/franccesco" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/white_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> <a href='https://ko-fi.com/V7V8AXFE' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
